@@ -1,0 +1,31 @@
+.vertical-line {
+    width: 2px; /* Adjust the width of the line as needed */
+    height: 1000px; /* Adjust the height of the line as needed */
+    background-color: black;
+    }
+.img-container{
+    margin-left: 140px; 
+}
+.container2{
+    background-color: #dfdbc375;
+}
+.container3{
+    background-color: #374e44d2;
+}
+.con{
+    background-color: #dfdbc375;
+}
+.con2{
+    margin-left: 140px;  
+}
+.cont{
+    margin-left: 60px;
+}
+.img1{
+    margin-left: 40px;
+    
+}
+.container4{
+    background-color: #95a8758a; 
+}
+
